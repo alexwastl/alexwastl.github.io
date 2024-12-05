@@ -1,0 +1,16 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: Alex Wastl
+theme: ["PaperMod"]
+enableEmoji: true
+
+params:
+  homeInfoParams:
+    Title: "Hello :wave:"
+    Content: I like building apps with Flutter. Check out my socials below.
+
+  socialIcons: # optional
+    - name: "github"
+      url: "https://github.com/alexwastl"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/alexander-wastl-ab90341b6/"
