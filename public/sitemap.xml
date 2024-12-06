@@ -2,21 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/public/</loc>
+    <loc>https://alexwastl.github.io/public/</loc>
     <lastmod>2024-12-06T14:23:26+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/public/posts/</loc>
+    <loc>https://alexwastl.github.io/public/posts/</loc>
     <lastmod>2024-12-06T14:23:26+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/public/posts/record-ios-simulator/</loc>
+    <loc>https://alexwastl.github.io/public/posts/record-ios-simulator/</loc>
     <lastmod>2024-12-06T14:23:26+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/public/about/</loc>
+    <loc>https://alexwastl.github.io/public/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/public/projects/</loc>
+    <loc>https://alexwastl.github.io/public/projects/</loc>
   </url><url>
-    <loc>http://localhost:1313/public/categories/</loc>
+    <loc>https://alexwastl.github.io/public/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/public/tags/</loc>
+    <loc>https://alexwastl.github.io/public/tags/</loc>
   </url>
 </urlset>
