@@ -2,7 +2,7 @@
 
 At German Bionic we build an app for exoskeletons
 
-![Alt text for my gif](images/gbc_showcase.PNG "=100px")
+![Alt text for my gif](images/gbc_showcase.png)
 
 :rocket: Download here
 
