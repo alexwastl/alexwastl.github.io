@@ -2,7 +2,7 @@
 
 Currently i am working on an app at German Bionic for connected exoskeletons
 
-![German Bionic Connect](../images/gbc_showcase.png)
+![German Bionic Connect](/images/gbc_showcase.png)
 
 :rocket: Download here
 
