@@ -3,14 +3,39 @@ languageCode: en-us
 title: Alex Wastl
 theme: ["PaperMod"]
 enableEmoji: true
+ignoreLogs : ['warning-goldmark-raw-html']
 
 params:
-  homeInfoParams:
-    Title: "Hello :wave:"
-    Content: I like building apps with Flutter. Check out my socials below.
-
-  socialIcons: # optional
+  profileMode:
+    enabled: true
+    title: "Hi :wave:" 
+    subtitle: "I build apps for Android and iOS with Flutter. :iphone:"
+    imageUrl: "images/profile_image.jpeg"
+    imageTitle: "<title of image as alt>" 
+    imageWidth: 220 
+    imageHeight: 220
+    buttons:
+      - name: "Projects"
+        url: "/projects"
+      - name: "Contact Me"
+        url: "/about"
+  socialIcons:
     - name: "github"
       url: "https://github.com/alexwastl"
     - name: "linkedin"
       url: "https://www.linkedin.com/in/alexander-wastl-ab90341b6/"
+  
+menu:
+  main:
+    - name: "Home"
+      url: "/"
+      weight: 10
+    - name: "About"
+      url: "/about"
+      weight: 40
+    - name: "Projects"
+      url: "/projects"
+      weight: 20
+    - name: "Blog"
+      url: "/posts"
+      weight: 30  
