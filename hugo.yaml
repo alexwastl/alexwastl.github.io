@@ -1,4 +1,4 @@
-baseURL: https://example.org/
+baseURL: "https://alexwastl.github.io/public"
 languageCode: en-us
 title: Alex Wastl
 theme: ["PaperMod"]
