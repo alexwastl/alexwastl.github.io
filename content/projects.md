@@ -1,8 +1,8 @@
 ## German Bionic Connect 
 
-At German Bionic we build an app for exoskeletons
+Currently i am working on an app at German Bionic for connected exoskeletons
 
-![Alt text for my gif](images/gbc_showcase.png)
+![German Bionic Connect](images/gbc_showcase.png)
 
 :rocket: Download here
 
